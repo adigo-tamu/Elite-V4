@@ -1,5 +1,16 @@
 README.md
 local-tester.py
 sample_agent.py
+judge_engine.py
 .git
 .gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
